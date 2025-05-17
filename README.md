@@ -8,7 +8,7 @@ I am a long time game industry veteran game developer with a background in shadi
 
 After discovering reshade, the "shade anywhere" program, I tried using the existing reshade shaders to improve the overall video quality and cinematic viewing experience of my movie collection.
 
-I had a great time making different shading presets, and could not believe the vast improvements that post-fx could bring to film.
+I had a great time making different shading presets, and could not believe the vast improvements that could be achieved with reshade post-fx.
 
 It was like watching a completely new film in some cases.
 
