@@ -54,7 +54,7 @@ Better yet, just download the preset and shaders, and try viewing it in your mov
 
 #### Screenshots
 
-"Reshade UI"
+Reshade UI
 ![Alt text](/readme/images/Reshade-Preset-TE3D-PostFX-Color-Contrast-Sharp-Bloom.png?raw=true "Reshade UI")
 
 Avengers Endgame
