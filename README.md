@@ -20,7 +20,7 @@ I would like to share my reshade presets and setup this repository.
 
 "reshade-presets": reshade shader presets are located in this folder.
 
-"reshade-shaders": reshade shader resources are locatd in this folder.
+"reshade-shaders": reshade shader resources are located in this folder.
 
 "readme": contains assets and images used in this repository's readme.md file.
 
@@ -28,9 +28,9 @@ I would like to share my reshade presets and setup this repository.
 
 ### TechEngineer3D-PostFX-Color-Contrast-Sharp-Bloom
 
-This post-fx shader is for enahancing image color richness, fidelity, details, sharpness, contrast, lighting and specular highlights.
+This post-fx shader is for enhancing image color richness, fidelity, details, sharpness, contrast, lighting and specular highlights.
 
-This is the result of my first postfx shader for reshade.
+This is the result of my first post-fx shader for reshade.
 
 After a month of experimenting and tuning parameters, I came up with the overall quality and look I was aiming for.
 
@@ -46,7 +46,7 @@ I was rather amazed at a lot of the fine details that were brought out when comp
 
 I have posted some screenshots below, showing the original image and reshaded image.
 
-The small image preview on Github makes it hard to see many of the enhanced details.
+The small image preview on GitHub makes it hard to see many of the enhanced details.
 
 I recommend to preview the images at full size, next to each other.
 
@@ -80,7 +80,7 @@ Reshade OFF
 Reshade ON  
 ![alt text](</readme/images/Film - Hobbit - Bilbo and Smaug 02 - Reshade ON.png?raw=true> "Reshade ON")
 
-Jurrasic Park  
+Jurassic Park  
 Reshade OFF  
 ![alt text](</readme/images/Film - Jurrasic Park - TRex Paddock 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
