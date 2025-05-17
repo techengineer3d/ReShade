@@ -46,115 +46,115 @@ I was rather amazed at a lot of the fine details that were brought out when comp
 
 I have posted some screenshots below, showing the original image and reshaded image.
 
-The small image preview on Github makes it hard to see all the details and enhancements.
+The small image preview on Github makes it hard to see many of the enhanced details.
 
-I recommend to view the images full size next to each other.
+I recommend to preview the images at full size, next to each other.
 
 Better yet, just download the preset and shaders, and try viewing it in your movie player of choice.
 
 #### Screenshots
 
-Reshade UI
+Reshade UI  
 ![Alt text](/readme/images/Reshade-Preset-TE3D-PostFX-Color-Contrast-Sharp-Bloom.png?raw=true "Reshade UI")
 
-Avengers Endgame
-Reshade OFF
+Avengers Endgame  
+Reshade OFF  
 ![Alt text](</readme/images/Film - Avengers Endgame - Thanos 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![Alt text](</readme/images/Film - Avengers Endgame - Thanos 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Avengers Infinity War
-Reshade OFF
+Avengers Infinity War  
+Reshade OFF  
 ![Alt text](</readme/images/Film - Avengers Infinity War - Chitahuri Invasion 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![Alt text](</readme/images/Film - Avengers Infinity War - Chitahuri Invasion 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-The Hobbit
-Reshade OFF
+The Hobbit  
+Reshade OFF  
 ![alt text](</readme/images/Film - Hobbit - Bilbo and Smaug 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Film - Hobbit - Bilbo and Smaug 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Reshade OFF
+Reshade OFF  
 ![alt text](</readme/images/Film - Hobbit - Bilbo and Smaug 02 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Film - Hobbit - Bilbo and Smaug 02 - Reshade ON.png?raw=true> "Reshade ON")
 
-Jurrasic Park
-Reshade OFF
+Jurrasic Park  
+Reshade OFF  
 ![alt text](</readme/images/Film - Jurrasic Park - TRex Paddock 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Film - Jurrasic Park - TRex Paddock 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Star Trek III - The Search For Spock
-Reshade OFF
+Star Trek III - The Search For Spock  
+Reshade OFF  
 ![alt text](</readme/images/Film - Star Trek III - Enterprise VS Excelsior 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON
 ![alt text](</readme/images/Film - Star Trek III - Enterprise VS Excelsior 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Star Wars - A New Hope
-Reshade OFF
+Star Wars - A New Hope  
+Reshade OFF  
 ![alt text](</readme/images/Film - Star Wars A New Hope - Opening 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Film - Star Wars A New Hope - Opening 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Reshade OFF
+Reshade OFF  
 ![alt text](</readme/images/Film - Star Wars A New Hope - Opening 02 - Reshade OFFpng.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Film - Star Wars A New Hope - Opening 02 - Reshade ON.png?raw=true> "Reshade ON")
 
-Star Wars - The Empire Strikes Back
-Reshade OFF
+Star Wars - The Empire Strikes Back  
+Reshade OFF  
 ![alt text](</readme/images/Film - Star Wars Empire - Hoth Imperial Walkers - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Film - Star Wars Empire - Hoth Imperial Walkers - Reshade ON.png?raw=true> "Reshade ON")
 
-Reshade OFF
+Reshade OFF  
 ![alt text](</readme/images/Film - Star Wars Empire - Hoth Star Destroyer 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Film - Star Wars Empire - Hoth Star Destroyer 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Reshade OFF
+Reshade OFF  
 ![alt text](</readme/images/Film - Star Wars Empire - Hoth Star Destroyer 02 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Film - Star Wars Empire - Hoth Star Destroyer 02 - Reshade ON.png?raw=true> "Reshade ON")
 
-Star Wars - Return of The Jedi
-Reshade OFF
+Star Wars - Return of The Jedi  
+Reshade OFF  
 ![alt text](</readme/images/Film - Star Wars Jedi - Jabba Sail Barge 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Film - Star Wars Jedi - Jabba Sail Barge 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Cyberpunk 2077
-Reshade OFF
+Cyberpunk 2077  
+Reshade OFF  
 ![alt text](</readme/images/Game - Cyberpunk - City 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Game - Cyberpunk - City 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Reshade OFF
+Reshade OFF  
 ![alt text](</readme/images/Game - Cyberpunk - City 02 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Game - Cyberpunk - City 02 - Reshade ON.png?raw=true> "Reshade ON")
 
-Cyberpunk - Dreampunk 2.0
-Reshade OFF
+Cyberpunk - Dreampunk 2.0  
+Reshade OFF  
 ![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 - Reshade ON.png?raw=true> "Reshade ON")
 
-Reshade OFF
+Reshade OFF  
 ![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 02 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 02 - Reshade ON.png?raw=true> "Reshade ON")
 
-Reshade OFF
+Reshade OFF  
 ![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 03 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 03 - Reshade ON.png?raw=true> "Reshade ON")
 
-Reshade OFF
+Reshade OFF  
 ![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 04 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON
+Reshade ON  
 ![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 04 - Reshade ON.png?raw=true> "Reshade ON")
 
 
