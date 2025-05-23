@@ -57,104 +57,95 @@ Better yet, just download the preset and shaders, and try viewing it in your mov
 Reshade UI  
 ![Alt text](/readme/images/Reshade-Preset-TE3D-PostFX-Color-Contrast-Sharp-Bloom.png?raw=true "Reshade UI")
 
-Avengers Endgame  
-Reshade OFF  
-![Alt text](</readme/images/Film - Avengers Endgame - Thanos 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON  
-![Alt text](</readme/images/Film - Avengers Endgame - Thanos 01 - Reshade ON.png?raw=true> "Reshade ON")
-
 Avengers Infinity War  
 Reshade OFF  
-![Alt text](</readme/images/Film - Avengers Infinity War - Chitahuri Invasion 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+![Alt text](</readme/images/Film - Avengers - Infinity War - Group Pose 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![Alt text](</readme/images/Film - Avengers Infinity War - Chitahuri Invasion 01 - Reshade ON.png?raw=true> "Reshade ON")
+![Alt text](</readme/images/Film - Avengers - Infinity War - Group Pose 01 - Reshade ON.png?raw=true> "Reshade ON")
+
+Avengers Endgame  
+Reshade OFF  
+![Alt text](</readme/images/Film - Avengers - Endgame - Thanos 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+Reshade ON  
+![Alt text](</readme/images/Film - Avengers - Endgame - Thanos 01 - Reshade ON.png?raw=true> "Reshade ON")
+
+Reshade OFF  
+![Alt text](</readme/images/Film - Avengers - Endgame - Iron Man 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+Reshade ON  
+![Alt text](</readme/images/Film - Avengers - Endgame - Iron Man 01 - Reshade ON.png?raw=true> "Reshade ON")
 
 The Hobbit  
 Reshade OFF  
-![alt text](</readme/images/Film - Hobbit - Bilbo and Smaug 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Film - Hobbit - Desolation of Smaug - Bilbo & Smaug 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![alt text](</readme/images/Film - Hobbit - Bilbo and Smaug 01 - Reshade ON.png?raw=true> "Reshade ON")
-
-Reshade OFF  
-![alt text](</readme/images/Film - Hobbit - Bilbo and Smaug 02 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON  
-![alt text](</readme/images/Film - Hobbit - Bilbo and Smaug 02 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Film - Hobbit - Desolation of Smaug - Bilbo & Smaug 01 - Reshade ON.png?raw=true> "Reshade ON")
 
 Jurassic Park  
 Reshade OFF  
-![alt text](</readme/images/Film - Jurrasic Park - TRex Paddock 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Film - Jurassic Park - TRex Paddock 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![alt text](</readme/images/Film - Jurrasic Park - TRex Paddock 01 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Film - Jurassic Park - TRex Paddock 01 - Reshade ON.png?raw=true> "Reshade ON")
 
 Star Trek III - The Search For Spock  
 Reshade OFF  
-![alt text](</readme/images/Film - Star Trek III - Enterprise VS Excelsior 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Film - Star Trek 3 - Excelsior's Pursuit 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON
-![alt text](</readme/images/Film - Star Trek III - Enterprise VS Excelsior 01 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Film - Star Trek 3 - Excelsior's Pursuit 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Star Wars - A New Hope  
+Star Trek VI - The Undiscovered Country  
 Reshade OFF  
-![alt text](</readme/images/Film - Star Wars A New Hope - Opening 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON  
-![alt text](</readme/images/Film - Star Wars A New Hope - Opening 01 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Film - Star Trek 6 - Excelsior 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+Reshade ON
+![alt text](</readme/images/Film - Star Trek 6 - Excelsior 01 - Reshade ON.png?raw=true> "Reshade ON")
 
+Star Wars V - The Empire Strikes Back 
 Reshade OFF  
-![alt text](</readme/images/Film - Star Wars A New Hope - Opening 02 - Reshade OFFpng.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Film - Star Wars 5 - Star Destroyers 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![alt text](</readme/images/Film - Star Wars A New Hope - Opening 02 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Film - Star Wars 5 - Star Destroyers 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Star Wars - The Empire Strikes Back  
-Reshade OFF  
-![alt text](</readme/images/Film - Star Wars Empire - Hoth Imperial Walkers - Reshade OFF.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Film - Star Wars 5 - Vader Chamber 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![alt text](</readme/images/Film - Star Wars Empire - Hoth Imperial Walkers - Reshade ON.png?raw=true> "Reshade ON")
-
-Reshade OFF  
-![alt text](</readme/images/Film - Star Wars Empire - Hoth Star Destroyer 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON  
-![alt text](</readme/images/Film - Star Wars Empire - Hoth Star Destroyer 01 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Film - Star Wars 5 - Vader Chamber 01 - Reshade ON.png?raw=true> "Reshade ON")
 
 Reshade OFF  
-![alt text](</readme/images/Film - Star Wars Empire - Hoth Star Destroyer 02 - Reshade OFF.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Film - Star Wars 5 - Hoth - Imperial Walkers 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![alt text](</readme/images/Film - Star Wars Empire - Hoth Star Destroyer 02 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Film - Star Wars 5 - Hoth - Imperial Walkers 01 - Reshade ON.png?raw=true> "Reshade ON")
+
+Reshade OFF  
+![alt text](</readme/images/Film - Star Wars 5 - Hoth - Imperial Walkers 02 - Reshade OFF.png?raw=true> "Reshade OFF")
+Reshade ON  
+![alt text](</readme/images/Film - Star Wars 5 - Hoth - Imperial Walkers 02 - Reshade ON.png?raw=true> "Reshade ON")
+
+Reshade OFF  
+![alt text](</readme/images/Film - Star Wars 5 - Hoth - Imperial Walker Commander 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+Reshade ON  
+![alt text](</readme/images/Film - Star Wars 5 - Hoth - Imperial Walker Commander 01 - Reshade ON.png?raw=true> "Reshade ON")
+
+Reshade OFF  
+![alt text](</readme/images/Film - Star Wars 5 - Hoth - Luke Snow Speeder 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+Reshade ON  
+![alt text](</readme/images/Film - Star Wars 5 - Hoth - Luke Snow Speeder 01 - Reshade ON.png?raw=true> "Reshade ON")
 
 Star Wars - Return of The Jedi  
 Reshade OFF  
-![alt text](</readme/images/Film - Star Wars Jedi - Jabba Sail Barge 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Film - Star Wars 6 - Jabba's Sail Barge 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![alt text](</readme/images/Film - Star Wars Jedi - Jabba Sail Barge 01 - Reshade ON.png?raw=true> "Reshade ON")
-
-Cyberpunk 2077  
-Reshade OFF  
-![alt text](</readme/images/Game - Cyberpunk - City 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON  
-![alt text](</readme/images/Game - Cyberpunk - City 01 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Film - Star Wars 6 - Jabba's Sail Barge 01 - Reshade ON.png?raw=true> "Reshade ON")
 
 Reshade OFF  
-![alt text](</readme/images/Game - Cyberpunk - City 02 - Reshade OFF.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Film - Star Wars 6 - Jabba's Sail Barge 02 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![alt text](</readme/images/Game - Cyberpunk - City 02 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Film - Star Wars 6 - Jabba's Sail Barge 02 - Reshade ON.png?raw=true> "Reshade ON")
 
-Cyberpunk - Dreampunk 2.0  
-Reshade OFF  
-![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON  
-![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 - Reshade ON.png?raw=true> "Reshade ON")
+Rise Of The Tomb Raider
 
 Reshade OFF  
-![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 02 - Reshade OFF.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 01 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 02 - Reshade ON.png?raw=true> "Reshade ON")
+![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 01 - Reshade ON.png?raw=true> "Reshade ON")
 
-Reshade OFF  
-![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 03 - Reshade OFF.png?raw=true> "Reshade OFF")
+![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 02 - Reshade OFF.png?raw=true> "Reshade OFF")
 Reshade ON  
-![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 03 - Reshade ON.png?raw=true> "Reshade ON")
-
-Reshade OFF  
-![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 04 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON  
-![alt text](</readme/images/Game - Cyberpunk - Dreampunk 2.0 04 - Reshade ON.png?raw=true> "Reshade ON")
-
-
+![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 02 - Reshade ON.png?raw=true> "Reshade ON")
