@@ -44,7 +44,9 @@ But overall, I think the results are good.
 
 I was rather amazed at a lot of the fine details that were brought out when compared to the original movie images.
 
-I have posted some screenshots below, showing the original image and reshaded image.
+In the preset folder, there is an updated version of this preset called TechEngineer3D-PostFX-Color-Contrast-Sharp-Bloom-v2.
+
+I have posted some screenshots below from the v2 version, comparing the original image and the reshaded image.
 
 The small image preview on GitHub makes it hard to see many of the enhanced details.
 
