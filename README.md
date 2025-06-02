@@ -26,7 +26,35 @@ I would like to share my reshade presets and setup this repository.
 
 ## Presets
 
-### TechEngineer3D-PostFX-Color-Contrast-Sharp-Bloom
+### Game Presets
+
+I have created reshade post effect shader presets for a few games.
+
+- Final Fantasy Ever Crisis
+- Final Fantasy XIV
+- Tiny Tina's Wonderland
+- Wuthering Waves
+
+The preset files are located in the following folder:
+
+reshade-presets\TechEngineer3D
+
+There are 3 presets for each game.
+1. Base Shading : standard shading, no high dynamic range stuff.
+2. HDR Natural: high dynamic range shading, uses Uncharted 2 FILMIC tonemapping.
+3. HDR Vibrant: high dynamic range shading, uses Baking Labs ACES tonemapping.
+
+The preset files follow the following naming conventions:
+1. Base Shading: TechEngineer3D-GameFX-<game_title>-.ini
+2. HDR Natural:  TechEngineer3D-GameFX-<game_title>-HDR-Natural-.ini
+3. HDR Vibrant:  TechEngineer3D-GameFX-<game_title>-HDR-Vibrant-.ini
+
+I have included some screenshots below.
+Will update with more later.
+
+### Movie Presets
+
+#### TechEngineer3D-PostFX-Color-Contrast-Sharp-Bloom
 
 This post-fx shader is for enhancing image color richness, fidelity, details, sharpness, contrast, lighting and specular highlights.
 
@@ -46,7 +74,9 @@ I was rather amazed at a lot of the fine details that were brought out when comp
 
 In the preset folder, there is an updated version of this preset called TechEngineer3D-PostFX-Color-Contrast-Sharp-Bloom-v2.
 
-I have posted some screenshots below from the v2 version, comparing the original image and the reshaded image.
+
+
+I have posted some screenshots below, showing the original image and reshaded image.
 
 The small image preview on GitHub makes it hard to see many of the enhanced details.
 
@@ -54,10 +84,133 @@ I recommend to preview the images at full size, next to each other.
 
 Better yet, just download the preset and shaders, and try viewing it in your movie player of choice.
 
-#### Screenshots
+### Screenshots
 
+#### UI
 Reshade UI  
 ![Alt text](/readme/images/Reshade-Preset-TE3D-PostFX-Color-Contrast-Sharp-Bloom.png?raw=true "Reshade UI")
+
+#### Games
+
+##### Final Fantasy Ever Crisis
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-BlazingOnslaught-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-BlazingOnslaught-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-BlazingOnslaught-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-CeruleanRaven-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-CeruleanRaven-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-CeruleanRaven-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-GiganticShield-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-GiganticShield-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-GiganticShield-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-GrenadeBomb-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-GrenadeBomb-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-GrenadeBomb-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-HealingWind-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-HealingWind-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-HealingWind-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-LunaticHigh-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-LunaticHigh-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-LunaticHigh-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-MindBlow-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-MindBlow-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-MindBlow-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-QueensShot-EffectsOFF.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-QueensShot-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-QueensShot-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-SealEvil-EffectsOFF.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-SealEvil-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-SealEvil-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-SealEvil01-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-SealEvil01-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-SealEvil01-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-SledFang-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-SledFang-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-SledFang-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-Somersault-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-Somersault-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-Somersault-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-StageOfDefeat-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-StageOfDefeat-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-StageOfDefeat-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-ValiantAttempt-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-ValiantAttempt-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-ValiantAttempt-HDR-Vibrant.png?raw=true>)
+
+Reshade OFF 
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-WaterKick-EffectsOFF-.png?raw=true>)
+HDR Natural (Uncharted 2 FILMIC)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-WaterKick-HDR-Natural.png?raw=true>)
+HDR Vibrant (Baking Lab ACES)
+![alt text](</readme/images/games/ffevercrisis/GameFX-FFEC-LimitBreak-WaterKick-HDR-Vibrant.png?raw=true>)
+
+##### Rise Of The Tomb Raider
+
+Reshade OFF  
+![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 01 - Reshade OFF.png?raw=true> "Reshade OFF")
+Reshade ON  
+![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 01 - Reshade ON.png?raw=true> "Reshade ON")
+
+![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 02 - Reshade OFF.png?raw=true> "Reshade OFF")
+Reshade ON  
+![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 02 - Reshade ON.png?raw=true> "Reshade ON")
+
+##### Films
 
 Avengers Infinity War  
 Reshade OFF  
@@ -141,13 +294,4 @@ Reshade OFF
 Reshade ON  
 ![alt text](</readme/images/Film - Star Wars 6 - Jabba's Sail Barge 02 - Reshade ON.png?raw=true> "Reshade ON")
 
-Rise Of The Tomb Raider
 
-Reshade OFF  
-![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 01 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON  
-![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 01 - Reshade ON.png?raw=true> "Reshade ON")
-
-![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 02 - Reshade OFF.png?raw=true> "Reshade OFF")
-Reshade ON  
-![alt text](</readme/images/Game - Rise Of The Tomb Raider - Prophet's Tomb 02 - Reshade ON.png?raw=true> "Reshade ON")
