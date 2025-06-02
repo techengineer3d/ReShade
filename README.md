@@ -31,7 +31,7 @@ I would like to share my reshade presets and setup this repository.
 I have created reshade post effect shader presets for a few games.
 
 - Final Fantasy Ever Crisis
-- Final Fantasy XIV
+- Final Fantasy XVI
 - Tiny Tina's Wonderland
 - Wuthering Waves
 
