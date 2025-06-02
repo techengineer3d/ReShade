@@ -52,6 +52,10 @@ The preset files follow the following naming conventions:
 I have included some screenshots below.
 Will update with more later.
 
+*Note: 
+Some of the screenshots below show the original image with the effects off, but still show the name of the preset I was using at the time.
+This is because Reshade effects can be disabled with a hotkey, but reshade does not display a text message indicating if the effect is on or off.
+
 ### Movie Presets
 
 #### TechEngineer3D-PostFX-Color-Contrast-Sharp-Bloom
